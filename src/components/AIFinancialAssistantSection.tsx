@@ -972,7 +972,9 @@ export default function AIFinancialAssistantSection() {
 
             <div className="mt-10 flex flex-col gap-4 sm:flex-row">
               <PrimaryButton href="#dashboard">View Live Demo</PrimaryButton>
-              <SecondaryButton href="https://github.com/">View GitHub</SecondaryButton>
+              <SecondaryButton href="https://github.com/vanshchwdhary/financial-assistant">
+                View GitHub
+              </SecondaryButton>
             </div>
 
             <div className="mt-10 flex flex-wrap items-center gap-2 text-xs text-white/55">
